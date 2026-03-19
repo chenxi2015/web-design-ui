@@ -31,10 +31,8 @@ Install this skill with the generic `skills` CLI workflow.
 ### Recommended — Install from GitHub
 
 ```bash
-npx skills add https://github.com/<owner>/web-design-ui --skill web-design-ui
+npx skills add https://github.com/chenxi2015/web-design-ui --skill web-design-ui
 ```
-
-Replace `<owner>` with the actual GitHub account or organization name.
 
 ### Local repository install
 
