@@ -1,9 +1,9 @@
 ---
-name: mintlify-style
+name: web-design-ui
 description: Build React UI components, pages, and apps in the Mintlify design style using shadcn/ui as the component foundation. Supports both dark mode and light mode with a theme toggle. Use this skill whenever the user asks for a "Mintlify-style" interface, dark or light SaaS UI, docs-style design, developer tool aesthetic — especially when shadcn/ui components are involved. Also trigger for "参考 Mintlify 风格", "Mintlify 样式", "白天模式", "日间模式", "深色/浅色切换". Default color scheme is shadcn/ui's neutral black — green accent is opt-in only when user explicitly requests Mintlify green branding.
 ---
 
-# Mintlify Style × shadcn/ui
+# web-design-ui
 
 **Core principle:** shadcn/ui components as-is. CSS variable overrides for theme. Default = shadcn neutral black. Green = opt-in only.
 
